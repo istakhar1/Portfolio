@@ -135,7 +135,7 @@ padding-left: 0rem;
     color: white;
     font-weight: 600;
     -webkit-background-clip: text;
-    -webkit-text-fill-color:transparent;
+    /* -webkit-text-fill-color:transparent; */
     background-clip: text;
 }
 
