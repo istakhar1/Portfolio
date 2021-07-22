@@ -1,3 +1,4 @@
+
 /* import font from font.css file */
 @import url(font.css);
 
@@ -228,3 +229,4 @@ footer.footer-area .social a>i{
     box-shadow: var(--box-shadow);
     transform: scale(1.1);
 }
+/* import font from font.css file */
